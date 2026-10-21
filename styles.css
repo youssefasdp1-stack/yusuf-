@@ -2,9 +2,8 @@ img{width: 330px;
 }
 body{
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-  background-color:skyblue ;
-  color:red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(99, 131, 233);
 }
 .title {
 	color: #5C6AC4;
